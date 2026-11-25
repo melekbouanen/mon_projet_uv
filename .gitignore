@@ -1,0 +1,20 @@
+
+# Environnement virtuel
+.venv/
+venv/
+env/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Django
+*.log
+
+# VS Code
+.vscode/
+
+# Variables sensibles
+.env
+*.db
